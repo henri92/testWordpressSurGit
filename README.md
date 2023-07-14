@@ -3,6 +3,22 @@
 
 1)configurer git
 
+=je creer un readme
+=j'envoie mon premier code
+-j'ai un problem de permission
+solution:
+git config --global credential.useHttpPath true
+git config --global -e
+
+je peux faire ensuite l'envoie de code
+git remote add origin git@github.com:sarmstead/groovy.git
+
+j'ai rencontrer un problem d'utilisateur git pour l'authentification
+solution:j'ai modifier le navigateur par defaut
+
+=je creer un autre branche pour le teste css "style-hero-section"
+je creer un fichiet style.css dans le nouveau branche
+
 
 
 2)configurer les plugin:
