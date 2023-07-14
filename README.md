@@ -13,6 +13,12 @@ git config --global -e
 je peux faire ensuite l'envoie de code
 git remote add origin git@github.com:sarmstead/groovy.git
 
+
+je veux envoyer tout mon code vers origin
+git add.
+git commit -m "tout wordpress initial"
+git push -u origin main  (main vers origin)
+
 j'ai rencontrer un problem d'utilisateur git pour l'authentification
 solution:j'ai modifier le navigateur par defaut
 
@@ -23,7 +29,7 @@ je creer un fichiet style.css dans le nouveau branche
 
 2)configurer les plugin:
 Migration, Backup, Staging – WPvivid*
-	Blocksy Companion*
+	Blocksy Companion
 	All-In-One Security (AIOS) – Security and Firewall
 	Elementor Website Builder – More than Just a Page Builder*
 	Forminator – Contact Form, Payment Form & Custom Form Builder*
